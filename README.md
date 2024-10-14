@@ -9,6 +9,6 @@ Simply replace 48 to any version of classification you needed.
 
 Just in case you are interested in similar data tools, I also constructed:
 - [Standardized Country Code](https://github.com/Wenzhi-Ding/Std_Country_Code)
-- [Standardized Country Code](https://github.com/Wenzhi-Ding/Std_Security_Code)
+- [Standardized Security Code](https://github.com/Wenzhi-Ding/Std_Security_Code)
 
 Please star the projects if you feel it is useful! Many thanks for your appreciation and support!
